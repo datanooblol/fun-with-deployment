@@ -1,0 +1,9 @@
+[project]
+name = "ds-preprocessing"
+version = "0.1.0"
+description = "Data Science Preprocessing Container"
+dependencies = [
+    "boto3>=1.34.0",
+    "pandas>=2.1.0",
+    "requests>=2.31.0"
+]
